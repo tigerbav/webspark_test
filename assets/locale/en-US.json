@@ -1,0 +1,12 @@
+{
+  "home_screen":"Home screen",
+  "set_valid_api":"Set valid API base URL in order to continue",
+  "incorrect_link":"Incorrect link.",
+  "something_went_wrong":"Something went wrong.",
+  "start_counting_process":"Start counting process",
+  "process_screen":"Process screen",
+  "calculation_has_finished":"All calculations has finished, you can send your results to server",
+  "send_results_to_server":"Send results to server",
+  "result_list_screen":"Result list screen",
+  "preview_screen":"Preview screen"
+}
